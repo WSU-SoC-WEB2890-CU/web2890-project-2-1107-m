@@ -1,0 +1,21 @@
+what you are most proud of about the project as well as what you could have done better with more time
+  - I am proud of the colors which I used for this project the most, but I could have done better on the Logo if I had time. I used the original Logo as base this time, but I would like to create that from the first next time.
+changes made to project in response to feedback provided by three critiques
+  - I could not make any changes because all three feedback did not include what is not good. Also, I am very satisfied with the first result. One thing I got was the bad roughness of the photo. If I make an actual website, I will use photos that I take.
+resources/assets and what they were used for (frameworks, libraries, code snippets, plugins, templates, etc)
+  - SASS, Bootstrap5, Adobe Illustrator, Icon8, Google fonts
+justification of some of the key design decisions
+  - Color: I chose this color scheme based on the original website, and I feel luxurious. As a result, it matched well with the pictures I used and Egyptian theater atmosphere.
+  - Font: I chose these fonts because I can feel high quality and friendly.
+  - Carousel: On the original website, sponsor logos are messy. I wanted to organize them, so I used a carousel. Also, I chose an autoplaying carousel in order to make all sponsors fair.
+ways that you customized the framework design
+  - All frameworks are adjusted with my color scheme
+  - Carousel: I made the arrows not overlap on the sponsor logos.
+  - Columns: I made three columns in a row when the media is large, two columns in a row when the media is medium, and one column in a row when the media is small on the ticket page.
+advanced features that you incorporated into the project
+  - Carousel
+  - I would love to incorporate animation and accessibility features in the future.
+problems that you experienced along the way
+  - Logo design: I made a little change from the original logo, but I feel like the change I made is not consistent with the original. So, I tried many ideas.
+  - Hero section photo size
+  - Layout change based on the size of the media
